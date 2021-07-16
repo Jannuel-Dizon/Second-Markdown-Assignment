@@ -1,0 +1,11 @@
+print("Based on the equations that are to solve the monty hall problem, it shows that the host of the gameshow would be at a constant loss because there is a higher chance of the contestant winning the prize")
+
+print("It shows that a contestant would be winning two-thirds of the time they would be playing. The odds would change greatly if there was no door that would open")
+
+print("There would be no plausible winning tactic if there would be no door that would open since each door would always have 1/3 chance of having a car")
+
+print("Based on the equations of the lottery, it shows that the seller of the lotto tickets would always be gaining money and that it is almost impossible to win the lottery")
+
+print("It would seem that the only winning strategy to the lottery would be to play multiple times using the same set of numbers and hopefully get lucky")
+
+print("The winning numbers always change so it seems that to keep a constant set of numbers is a winning strategy.")
